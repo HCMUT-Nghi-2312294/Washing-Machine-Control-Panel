@@ -1,0 +1,6 @@
+# Ignore these proteus files
+proteus/*.pdsbak
+proteus/*.workspace
+
+# Keep project file
+!proteus/*.pdsprj
