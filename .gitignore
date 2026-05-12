@@ -1,8 +1,0 @@
-# Proteus ignore
-proteus/*.pdsprj.*.bak
-proteus/*.pdsprj.*.workspace
-proteus/*.pdslogs
-# Always include
-!proteus/*.pdsprj
-
-# STM32 ignore
